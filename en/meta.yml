@@ -4,7 +4,7 @@ subtitle: rpi-connect-camera subtitle
 description: rpi-connect-camera description
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
-published: false
+published: true
 steps:
   - title: Step one
     duration: 60
