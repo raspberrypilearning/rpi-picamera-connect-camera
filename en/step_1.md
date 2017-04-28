@@ -1,4 +1,4 @@
-# Connecting the camera module to the Raspberry Pi
+### Connecting the camera module to the Raspberry Pi
 
 The Raspberry Pi camera module can be used to take high-definition video, as well as still photographs.
 
