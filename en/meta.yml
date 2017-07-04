@@ -1,10 +1,12 @@
 title: Connect a Raspberry Pi Camera Module
 hero_image: images/banner.png
 description: Learn how to connect the Raspberry Pi Camera Module
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+original_url:
 theme: cc-prototype
-published: false
+listed: false
 ingredient: true
+copyedit: true
+interests: 
+technologies: "picamera, raspberry pi"
 steps:
-  - title: Step one
-    duration: 60
+  - title: Attach the camera
